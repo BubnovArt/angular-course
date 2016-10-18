@@ -19,8 +19,8 @@ export class AppComponent {
       water: 12,
       followers: 343,
       following: 999,
-      imageLeft: 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Ogi_Shirakawa02bs3200.jpg',
-      imageRight: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Ourika_berbere_village.jpg'
+      imageLeft: 'http://www.tursvodka.ru/upload/tursvodka/tourism_hotel_photo/turkey/kusadasi/hotel_imbat/hotel_imbat_9_thumbnail.jpg',
+      imageRight: 'http://hotels.optiotravel.ru/resources/ita39be105ee7f4efb8e20804c0922a24d/thumb_0da54e4d335f4543aaba0ac0b3264f8b.jpg'
     },
     {
       title: 'Resort Melia Varadero',
@@ -29,8 +29,8 @@ export class AppComponent {
       water: 11,
       followers: 233,
       following: 489,
-      imageLeft: 'http://www.isvarmurti.com/blog/wp-content/uploads/2013/11/Akha_village.jpg',
-      imageRight: 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Guri_Rajasthan_02.jpg'
+      imageLeft: 'https://www.just-online.ru/upload/15/150718/150718a_hb_p_004.jpg',
+      imageRight: 'http://www.hotlinesupport.ru/wp-content/uploads/2015/02/file59_8.jpg'
     },
     {
       title: 'Resort American Village',
@@ -39,8 +39,8 @@ export class AppComponent {
       water: 25,
       followers: 444,
       following: 44,
-      imageLeft: 'https://media-cdn.tripadvisor.com/media/photo-s/01/5a/3f/73/village-view.jpg',
-      imageRight: 'https://anthromes.wikispaces.com/file/view/life_in_china.1249650379.3_ancient-xidi-x-hongcun-villages.jpg/139496743/life_in_china.1249650379.3_ancient-xidi-x-hongcun-villages.jpg'
+      imageLeft: 'https://blog.ostrovok.ru/wp-content/uploads/2011/03/four-seasons-hotel-cyprus-300x225.jpg',
+      imageRight: 'http://kuponcho.ru/media/gallery/offer/img/732/750562.jpg'
     },
     {
       title: 'Resort Finn House',
@@ -49,8 +49,8 @@ export class AppComponent {
       water: 19,
       followers: 35,
       following: 32,
-      imageLeft: 'https://propelsteps.files.wordpress.com/2013/10/japan-village2.jpg',
-      imageRight: 'http://nativepakistan.com/wp-content/uploads/Photos-of-Pakistani-Villages-Photo-of-a-mud-hut-and-a-cart-in-a-fruit-garden-in-a-village-Pictures-of-Pakistani-Villages-Pakistani-Village-Life.jpg'
+      imageLeft: 'http://www.restate.ru/attachment/3b1a240079417406a2462935baf196b9fcc5bbd4/redisson.jpg',
+      imageRight: 'https://media.expedia.com/hotels/8000000/7240000/7234900/7234816/7234816_32_b.jpg'
     }
   ];
 
