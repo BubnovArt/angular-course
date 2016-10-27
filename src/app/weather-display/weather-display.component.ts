@@ -1,5 +1,6 @@
-import { Component, Input } from '@angular/core';
+import { Component } from '@angular/core';
 import {IResort} from "../shared/interfaces/resort.interface";
+import {DataService} from "../shared/services/data.service";
 
 @Component({
   selector: 'app-weather-display',
@@ -8,8 +9,9 @@ import {IResort} from "../shared/interfaces/resort.interface";
 })
 export class WeatherDisplayComponent {
 
-  @Input()
   public clicked: IResort;
 
-  constructor() { }
+  constructor(private dataService: DataService) {
+    this.dataService.currentDataObservable.subscribe(clicked => {this.clicked = clicked; console.log('Received new subject value: ')});
+  }
 }

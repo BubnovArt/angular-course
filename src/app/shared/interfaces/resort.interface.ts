@@ -6,5 +6,6 @@ export interface IResort {
   followers: number,
   following: number,
   imageLeft: string,
-  imageRight: string
+  imageRight: string,
+  type: string;
 }
